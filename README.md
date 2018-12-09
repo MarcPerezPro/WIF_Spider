@@ -6,10 +6,16 @@ It does that by using [Regular Expression](https://en.wikipedia.org/wiki/Regular
 ---
 
 ### To use it, please run:
-```
+```console
 pip install -r requirements.txt
-./main.py
+./main.py URL(s)
 ```
+
+**For example:**
+```console
+ ./main.py http://gobittest.appspot.com/PrivateKey
+```
+
 ---
 
 ### TODO:
