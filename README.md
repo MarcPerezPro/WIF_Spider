@@ -20,3 +20,5 @@ pip install -r requirements.txt
 
 ### TODO:
  - Add a way to run it with "scrapy runspider WIFSpider.py"
+ - Try Except for Scrapy
+ - Try Except for pycoin + blockexplorer
