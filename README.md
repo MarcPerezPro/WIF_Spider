@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 **For example:**
 ```console
- ./main.py http://gobittest.appspot.com/PrivateKey
+./main.py http://gobittest.appspot.com/PrivateKey
 ```
 
 ---
