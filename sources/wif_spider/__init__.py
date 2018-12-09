@@ -9,7 +9,6 @@ from sources.balance_checker import BalanceChecker
 
 class WIFSpider(scrapy.Spider):
     name = 'WIFSpider'
-    start_urls = ['http://gobittest.appspot.com/PrivateKey']
 
     custom_settings = {
         'COOKIES_ENABLED': False,

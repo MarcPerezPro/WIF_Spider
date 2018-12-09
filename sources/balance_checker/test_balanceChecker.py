@@ -1,5 +1,5 @@
 from unittest import TestCase
-from balance_checker import BalanceChecker
+from sources.balance_checker import BalanceChecker
 
 VALID_WIF = "5HueCGU8rMjxEXxiPuD5BDku4MkFqeZyd4dZ1jvhTVqvbTLvyTJ"
 
