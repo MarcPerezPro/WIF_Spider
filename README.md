@@ -22,3 +22,4 @@ pip install -r requirements.txt
  - Add a way to run it with "scrapy runspider WIFSpider.py"
  - Try Except for Scrapy
  - Try Except for pycoin + blockexplorer
+ - Add an HTTP Request Header used by a Facebook/Google bot
